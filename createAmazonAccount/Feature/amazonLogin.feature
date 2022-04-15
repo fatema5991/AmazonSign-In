@@ -1,5 +1,4 @@
 @amazon
-
 Feature: create an account
 
 Scenario Outline: Verify the error message by creating an invalid account
